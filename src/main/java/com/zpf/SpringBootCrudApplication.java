@@ -11,6 +11,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 @SpringBootApplication
 public class SpringBootCrudApplication extends SpringBootServletInitializer {
     public static void main(String[] args) {
+        System.out.println("项目启动了");
         SpringApplication.run(SpringBootCrudApplication.class);
     }
     @Override
