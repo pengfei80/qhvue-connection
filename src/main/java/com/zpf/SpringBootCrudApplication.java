@@ -12,7 +12,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class SpringBootCrudApplication extends SpringBootServletInitializer {
     public static void main(String[] args) {
         System.out.println("项目启动了");
-        System.out.println("项目启动了。开心");
+        System.out.println("项目启动了lllll开心");
         SpringApplication.run(SpringBootCrudApplication.class);
     }
     @Override
